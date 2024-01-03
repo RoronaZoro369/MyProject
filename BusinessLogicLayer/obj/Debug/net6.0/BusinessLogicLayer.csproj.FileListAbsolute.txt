@@ -1,0 +1,15 @@
+D:\MyApplication\ServerAPI\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\MyApplication\ServerAPI\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\MyApplication\ServerAPI\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\MyApplication\ServerAPI\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\MyApplication\ServerAPI\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\MyApplication\ServerAPI\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
